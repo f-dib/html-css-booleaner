@@ -45,3 +45,12 @@ header{
 #list{
     padding-left: 10px;
 }
+
+#table-title{
+    color: white;
+    background-color: cornflowerblue;
+}
+
+.table-body{
+    background-color: aqua;
+}
