@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-color: cornflowerblue;
+    background-color: rgb(32, 169, 229);
     background-image: url(../img/pattern.png);
     margin: 0px;
 }
@@ -59,9 +59,18 @@ h1{
 
 #table-title{
     color: white;
-    background-color: cornflowerblue;
+    background-color: rgb(32, 169, 229);
+    text-align: left;
+}
+
+.table-cells{
+    width: 25%;
+}
+
+.final-cell-of-the-table{
+    width: 50%;
 }
 
 .table-body{
-    background-color: aqua;
+    background-color: rgb(117, 229, 242);
 }
