@@ -41,3 +41,7 @@ header{
 .highlighter{
     background-color: yellow;
 }
+
+#list{
+    padding-left: 10px;
+}
