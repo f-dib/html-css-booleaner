@@ -10,3 +10,34 @@ header{
     width: 180px;
     margin-top: 1%;
 }
+
+ h1{
+    margin-bottom: 0px;
+ }
+
+.writer{
+    color: gray;
+    font-size: large;
+}
+
+#source{
+    color: cornflowerblue;
+}
+
+#data{
+    color: grey;
+    font-size: small;
+}
+
+#John-Knight{
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+#photo-source{
+    font-size: smaller;
+}
+
+.highlighter{
+    background-color: yellow;
+}
