@@ -1,8 +1,15 @@
+body{
+    margin: 0px;
+}
+
 header{
-    margin: 0%;
-    padding: 0%;
     background-color: cornflowerblue;
-    background-image: url(C:\Boolean\html-css-booleaner\img\pattern.png);
+    background-image: url(../img/pattern.png);
+    margin: 0px;
+}
+
+main{
+    margin: 0.5%;
 }
 
 #logo-booleaner{
@@ -11,9 +18,9 @@ header{
     margin-top: 1%;
 }
 
- h1{
+h1{
     margin-bottom: 0px;
- }
+}
 
 .writer{
     color: gray;
@@ -43,7 +50,11 @@ header{
 }
 
 #list{
-    padding-left: 10px;
+    padding-left: 15px;
+}
+
+#complete-table{
+    border-spacing: 0px;
 }
 
 #table-title{
