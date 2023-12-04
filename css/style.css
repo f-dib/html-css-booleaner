@@ -1,0 +1,12 @@
+header{
+    margin: 0%;
+    padding: 0%;
+    background-color: cornflowerblue;
+    background-image: url(C:\Boolean\html-css-booleaner\img\pattern.png);
+}
+
+#logo-booleaner{
+    height: 90px;
+    width: 180px;
+    margin-top: 1%;
+}
