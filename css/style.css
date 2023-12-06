@@ -1,12 +1,14 @@
-body{
+*{
     margin: 0px;
 }
 
-header{
+/* nav */
+nav{
     background-color: rgb(32, 169, 229);
     background-image: url(../img/pattern.png);
     background-size: contain;
     margin: 0px;
+    margin-bottom: 10px;
 }
 
 #logo-booleaner{
@@ -14,11 +16,9 @@ header{
     width: 180px;
     margin-top: 1%;
 }
+/* end nav */
 
-.spacings{
-    margin: 0.5%;
-}
-
+/* header */
 h1{
     margin-bottom: 0px;
 }
@@ -30,11 +30,19 @@ h1{
 
 #source{
     color: cornflowerblue;
+    text-decoration: none;
 }
 
 #data{
     color: grey;
     font-size: small;
+}
+/* end header */
+
+/* figure */
+figure{
+    margin: 0.5%;
+    margin-bottom: 20px;
 }
 
 #John-Knight{
@@ -42,20 +50,26 @@ h1{
     margin-bottom: 0px;
 }
 
-#photo-source{
-    font-size: smaller;
+figcaption{
+    font-size: .7em;
 }
+/* end figure */
 
-.highlighter{
-    background-color: yellow;
+/* section p and list */
+p{
+    margin-bottom: 20px;
 }
 
 #list{
     padding-left: 15px;
+    margin-bottom: 20px;
 }
+/* end section p and list */
 
+/* table */
 #complete-table{
     border-spacing: 0px;
+    margin-bottom: 20px;
 }
 
 #table-title{
@@ -75,7 +89,9 @@ h1{
 .table-body{
     background-color: rgb(117, 229, 242);
 }
+/* end table */
 
+/* footer */
 #related-research{
     color: grey;
     font-size: medium;
@@ -90,6 +106,7 @@ h1{
     height: 150px;
     width: 200px;
     background-size: cover;
+    margin-bottom: 10px;
 }
 
 #second-box{
@@ -97,4 +114,6 @@ h1{
     height: 150px;
     width: 200px;
     background-size: cover;
+    margin-bottom: 10px;
 }
+/* end footer */
